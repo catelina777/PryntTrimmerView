@@ -54,6 +54,7 @@ Run `carthage update` to build the framework and drag the built PryntTrimmerView
 - Swift 3 compatibility: use version 1.0.1 or below.
 - Swift 4 compatibility: use version 2.x.x.
 - Swift 4.2 compatibility: use version 3.x.x
+- Swift 5 compatibility: use version 4.x.x
 
 ## Usage
 
